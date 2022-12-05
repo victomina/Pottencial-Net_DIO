@@ -1,5 +1,66 @@
 ﻿using ExemploFundamentals.Models;
 
+//Implementação de uma pilha ==> LIFO ==> Last IN First Out
+
+
+Stack<int> pilha = new Stack<int>();
+
+pilha.Push(4);
+pilha.Push(8);
+pilha.Push(10);
+pilha.Push(12);
+
+foreach(int item in pilha)
+{
+    Console.WriteLine(item);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 // See https://aka.ms/new-console-template for more information
 
 // Console.WriteLine("Hello, World!");
@@ -20,26 +81,26 @@
 
  //Exemplo fila ---Queue
 
- Queue<int> fila = new Queue<int>();
+//  Queue<int> fila = new Queue<int>();
  
- fila.Enqueue(2);
- fila.Enqueue(4);
- fila.Enqueue(6);
- fila.Enqueue(8);
+//  fila.Enqueue(2);
+//  fila.Enqueue(4);
+//  fila.Enqueue(6);
+//  fila.Enqueue(8);
 
- foreach(int item in fila)
- {
-    Console.WriteLine(item);
- }
+//  foreach(int item in fila)
+//  {
+//     Console.WriteLine(item);
+//  }
 
- // removendo um elemento da fila
- Console.WriteLine($"Removendo o elemento : {fila.Dequeue()}");  //remove o elemtno da fila
+//  // removendo um elemento da fila
+//  Console.WriteLine($"Removendo o elemento : {fila.Dequeue()}");  //remove o elemtno da fila
 
-fila.Enqueue(7);
+// fila.Enqueue(7);
 
- foreach(int item in fila)
- {
-    Console.WriteLine(item);                //foreach para cada elemento da fila ==> listar o elemento da fila
- }
+//  foreach(int item in fila)
+//  {
+//     Console.WriteLine(item);                //foreach para cada elemento da fila ==> listar o elemento da fila
+//  }
 
-Console.WriteLine("Fim do exemplo de fila!!");
+// Console.WriteLine("Fim do exemplo de fila!!");
