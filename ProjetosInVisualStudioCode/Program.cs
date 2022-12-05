@@ -3,58 +3,27 @@
 //Implementação de uma pilha ==> LIFO ==> Last IN First Out
 
 
-Stack<int> pilha = new Stack<int>();
+// Stack<int> pilha = new Stack<int>();
 
-pilha.Push(4);
-pilha.Push(8);
-pilha.Push(10);
-pilha.Push(12);
+// pilha.Push(4);
+// pilha.Push(8);
+// pilha.Push(10);
+// pilha.Push(12);
 
-foreach(int item in pilha)
-{
-    Console.WriteLine(item);
-}
-
-
+// foreach(int item in pilha)
+// {
+//     Console.WriteLine(item);
+// }
 
 
+// Console.WriteLine($"Removendo o elemento do topo da pilha:{pilha.Pop()}"); 
 
+// pilha.Push(33);
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+// foreach(int item in pilha)
+// {
+//     Console.WriteLine(item);
+// }
 
 
 
