@@ -1,5 +1,44 @@
 ﻿using ExemploFundamentals.Models;
 
+
+//Exemplo de dictionary
+
+Dictionary<string, string> estados =  new  Dictionary<string, string>();
+
+estados.Add("Ce","Ceará");
+estados.Add("Al","Alagoas");
+estados.Add("Ba","Bahia");
+
+
+foreach(var item in estados)
+{
+    Console.WriteLine($" Chave : {item.Key}, valor: {item.Value}");
+}
+
+estados.Remove("Ba");
+
+Console.WriteLine("-------------- Fica agora o seguinte dicionário:------------");
+
+foreach(var item in estados)
+{
+    Console.WriteLine($" Chave : {item.Key}, valor : {item.Value}");
+}
+
+
+string chave = "Ba";
+Console.WriteLine($"Verificando se o elemento existe : {chave}");
+
+if(estados.ContainsKey(chave))
+{
+    Console.WriteLine($"Valor existente : {chave}");
+}
+else
+{
+    Console.WriteLine($"O valor não existe!! É seguro adicionar a chave : {chave}");
+}
+
+
+
 //Implementação de uma pilha ==> LIFO ==> Last IN First Out
 
 
