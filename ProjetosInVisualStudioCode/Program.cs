@@ -31,4 +31,5 @@ calculadora.Seno(60);
     Console.WriteLine(item);
  }
 
- 
+ // removendo um elemento da fila
+ Console.WriteLine($"Removendo o elemento : {fila.Dequeue()}");
