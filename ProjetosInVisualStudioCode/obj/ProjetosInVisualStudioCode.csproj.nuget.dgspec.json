@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Victor Verissimo\\Documents\\000.Cursos\\Pottencial -net-\\ProjetosInVisualStudioCode\\ProjetosInVisualStudioCode.csproj": {}
+    "C:\\Users\\Victor Verissimo\\Documents\\000.Cursos\\DIO\\Pottencial -net-\\ProjetosInVisualStudioCode\\ProjetosInVisualStudioCode.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Victor Verissimo\\Documents\\000.Cursos\\Pottencial -net-\\ProjetosInVisualStudioCode\\ProjetosInVisualStudioCode.csproj": {
+    "C:\\Users\\Victor Verissimo\\Documents\\000.Cursos\\DIO\\Pottencial -net-\\ProjetosInVisualStudioCode\\ProjetosInVisualStudioCode.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Victor Verissimo\\Documents\\000.Cursos\\Pottencial -net-\\ProjetosInVisualStudioCode\\ProjetosInVisualStudioCode.csproj",
+        "projectUniqueName": "C:\\Users\\Victor Verissimo\\Documents\\000.Cursos\\DIO\\Pottencial -net-\\ProjetosInVisualStudioCode\\ProjetosInVisualStudioCode.csproj",
         "projectName": "ProjetosInVisualStudioCode",
-        "projectPath": "C:\\Users\\Victor Verissimo\\Documents\\000.Cursos\\Pottencial -net-\\ProjetosInVisualStudioCode\\ProjetosInVisualStudioCode.csproj",
+        "projectPath": "C:\\Users\\Victor Verissimo\\Documents\\000.Cursos\\DIO\\Pottencial -net-\\ProjetosInVisualStudioCode\\ProjetosInVisualStudioCode.csproj",
         "packagesPath": "C:\\Users\\Victor Verissimo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Victor Verissimo\\Documents\\000.Cursos\\Pottencial -net-\\ProjetosInVisualStudioCode\\obj\\",
+        "outputPath": "C:\\Users\\Victor Verissimo\\Documents\\000.Cursos\\DIO\\Pottencial -net-\\ProjetosInVisualStudioCode\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Victor Verissimo\\AppData\\Roaming\\NuGet\\NuGet.Config"
