@@ -21,17 +21,6 @@ Console.WriteLine($"Id :{minhaTupla.item1}");
 
 
 
-
-
-
-
-
-
-
-
-
-
-
 //Exemplo de dictionary
 // adicionando comentário adicionando comentário
 // Dictionary<string, string> estados =  new  Dictionary<string, string>();
