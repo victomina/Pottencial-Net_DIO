@@ -2,7 +2,7 @@
 
 
 //Exemplo de dictionary
-// adicionando comentário
+// adicionando comentário adicionando comentário
 Dictionary<string, string> estados =  new  Dictionary<string, string>();
 
 estados.Add("Ce","Ceará");
