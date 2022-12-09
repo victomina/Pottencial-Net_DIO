@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "YN83hkGsPeJ4/BwlgZ3Vt/02eYn/Z8cMlvfNGQCconnwMucoHbmYNrp77nuH2g/sJF05nDyNadDnc2+WBjGQQA==",
+  "dgSpecHash": "mGMcqEWJjQcYlpDi3xnUUl3WRu+SUScCg4mlVB5cxKNV8et6DpPa5ySVqI8ra8lYyIT4wFYgxLnRhWrirpMVoQ==",
   "success": true,
-  "projectFilePath": "D:\\Victomina_Files\\001.Cursos_Em_Andamento\\DIO\\Pottencial-Net_DIO\\ProjetosInVisualStudioCode\\ProjetosInVisualStudioCode.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\Victor Verissimo\\Documents\\000.Cursos\\DIO\\Pottencial -net-\\ProjetosInVisualStudioCode\\ProjetosInVisualStudioCode.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Victor Verissimo\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512"
+  ],
   "logs": []
 }
