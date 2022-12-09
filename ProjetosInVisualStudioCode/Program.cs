@@ -5,13 +5,24 @@ using System;
 using Newtonsoft.Json;
 
 
-Vendas venda1 = new Vendas(1 , "Material de computação", 25.00M);
+List<Vendas> listadeVendas = new List<Vendas>();
 
-string serializar = JsonConvert.SerializeObject(venda1, Formatting.Indented);
+//serializando um objeto
 
-File.WriteAllText("Arquivos/vendas.json",serializar);
+Vendas vendas = new Vendas(1 , "Material de computação", 25.00M);
+Vendas vendas_1 = new Vendas(2, "Material de escritório", 34.00M);
 
-Console.WriteLine(serializar);
+listadeVendas.Add(vendas);
+listadeVendas.Add(vendas_1);
+
+string serializando = JsonConvert.SerializeObject(vendas, Formatting.Indented);
+
+File.WriteAllText("Arquivos/vendas.json",serializando);
+
+Console.WriteLine(serializando);
+
+//Seraializando uma lista de objeto
+
 
 
 
