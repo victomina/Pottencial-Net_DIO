@@ -4,13 +4,14 @@ using ProjetosInVisualStudioCode.Models;
 using System;
 using Newtonsoft.Json;
 
+DateTime dataAtual = DateTime.Now;
 
 List<Vendas> listadeVendas = new List<Vendas>();
 
 //serializando um objeto
 
-Vendas vendas = new Vendas(1 , "Material de computação", 25.00M);
-Vendas vendas_1 = new Vendas(2, "Material de escritório", 34.00M);
+Vendas vendas = new Vendas(1 , "Material de computação", 25.00M, dataAtual);
+Vendas vendas_1 = new Vendas(2, "Material de escritório", 34.00M, dataAtual);
 
 listadeVendas.Add(vendas);
 listadeVendas.Add(vendas_1);
@@ -21,7 +22,7 @@ File.WriteAllText("Arquivos/vendas.json",serializando);
 
 Console.WriteLine(serializando);
 
-//Seraializando uma lista de objeto
+//representar um datetime em formato Json
 
 
 

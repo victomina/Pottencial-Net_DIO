@@ -2,11 +2,13 @@
   {
     "Id": 1,
     "Produto": "Material de computação",
-    "Preco": 25.00
+    "Preco": 25.00,
+    "DataVenda": "2022-12-09T04:23:15.7425922-03:00"
   },
   {
     "Id": 2,
     "Produto": "Material de escritório",
-    "Preco": 34.00
+    "Preco": 34.00,
+    "DataVenda": "2022-12-09T04:23:15.7425922-03:00"
   }
 ]
