@@ -15,7 +15,7 @@ Vendas vendas_1 = new Vendas(2, "Material de escritório", 34.00M);
 listadeVendas.Add(vendas);
 listadeVendas.Add(vendas_1);
 
-string serializando = JsonConvert.SerializeObject(vendas, Formatting.Indented);
+string serializando = JsonConvert.SerializeObject(listadeVendas, Formatting.Indented);
 
 File.WriteAllText("Arquivos/vendas.json",serializando);
 
