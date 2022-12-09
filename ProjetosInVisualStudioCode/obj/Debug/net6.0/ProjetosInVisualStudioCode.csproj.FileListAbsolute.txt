@@ -44,3 +44,5 @@ D:\Victomina_Files\001.Cursos_Em_Andamento\DIO\Pottencial-Net_DIO\ProjetosInVisu
 D:\Victomina_Files\001.Cursos_Em_Andamento\DIO\Pottencial-Net_DIO\ProjetosInVisualStudioCode\obj\Debug\net6.0\ref\ProjetosInVisualStudioCode.dll
 D:\Victomina_Files\001.Cursos_Em_Andamento\DIO\Pottencial-Net_DIO\ProjetosInVisualStudioCode\obj\Debug\net6.0\ProjetosInVisualStudioCode.pdb
 D:\Victomina_Files\001.Cursos_Em_Andamento\DIO\Pottencial-Net_DIO\ProjetosInVisualStudioCode\obj\Debug\net6.0\ProjetosInVisualStudioCode.genruntimeconfig.cache
+C:\Users\Victor Verissimo\Documents\000.Cursos\DIO\Pottencial -net-\ProjetosInVisualStudioCode\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Victor Verissimo\Documents\000.Cursos\DIO\Pottencial -net-\ProjetosInVisualStudioCode\obj\Debug\net6.0\ProjetosInVisualStudioCode.csproj.CopyComplete

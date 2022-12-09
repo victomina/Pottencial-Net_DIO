@@ -1,25 +1,25 @@
 ﻿using ExemploFundamentals.Models;
 using System.Globalization;
-
-(int, string, string) minhaTupla = (1, "Victor", "Veríssimo");
-
-Console.WriteLine($"Id :{minhaTupla.Item1}");
-Console.WriteLine($" Nome : {minhaTupla.Item2}");
-Console.WriteLine($"Sobrenome : {minhaTupla.Item3}");
+using ProjetosInVisualStudioCode.Models;
+using System;
+using Newtonsoft.Json;
 
 
+Vendas venda1 = new Vendas(1 , "Material de computação", 25.00M);
 
+string serializar = JsonConvert.SerializeObject(venda1, Formatting.Indented);
 
-
-
+Console.WriteLine(serializar);
 
 
 
 
+//Exemplo de tupla
+// (int, string, string) minhaTupla = (1, "Victor", "Veríssimo");
 
-
-
-
+// Console.WriteLine($"Id :{minhaTupla.Item1}");
+// Console.WriteLine($" Nome : {minhaTupla.Item2}");
+// Console.WriteLine($"Sobrenome : {minhaTupla.Item3}");
 
 
 
