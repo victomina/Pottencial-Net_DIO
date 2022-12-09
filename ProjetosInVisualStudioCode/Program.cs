@@ -9,6 +9,8 @@ Vendas venda1 = new Vendas(1 , "Material de computação", 25.00M);
 
 string serializar = JsonConvert.SerializeObject(venda1, Formatting.Indented);
 
+File.WriteAllText("Arquivos/vendas.json",serializar);
+
 Console.WriteLine(serializar);
 
 
