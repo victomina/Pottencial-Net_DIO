@@ -10,8 +10,8 @@ List<Vendas> listadeVendas = new List<Vendas>();
 
 //serializando um objeto
 
-Vendas vendas = new Vendas(1 , "Material de computação", 25.00M, dataAtual);
-Vendas vendas_1 = new Vendas(2, "Material de escritório", 34.00M, dataAtual);
+Vendas vendas = new Vendas(1 , "Material de computação", 25.00M, dataAtual, null);
+Vendas vendas_1 = new Vendas(2, "Material de escritório", 34.00M, dataAtual, 10M);
 
 listadeVendas.Add(vendas);
 listadeVendas.Add(vendas_1);
