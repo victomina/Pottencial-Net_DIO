@@ -1,0 +1,15 @@
+C:\Users\Victor Verissimo\Documents\000.Cursos\DIO\Pottencial -net-\Exemplo POO\bin\Debug\net6.0\Exemplo POO.exe
+C:\Users\Victor Verissimo\Documents\000.Cursos\DIO\Pottencial -net-\Exemplo POO\bin\Debug\net6.0\Exemplo POO.deps.json
+C:\Users\Victor Verissimo\Documents\000.Cursos\DIO\Pottencial -net-\Exemplo POO\bin\Debug\net6.0\Exemplo POO.runtimeconfig.json
+C:\Users\Victor Verissimo\Documents\000.Cursos\DIO\Pottencial -net-\Exemplo POO\bin\Debug\net6.0\Exemplo POO.dll
+C:\Users\Victor Verissimo\Documents\000.Cursos\DIO\Pottencial -net-\Exemplo POO\bin\Debug\net6.0\Exemplo POO.pdb
+C:\Users\Victor Verissimo\Documents\000.Cursos\DIO\Pottencial -net-\Exemplo POO\obj\Debug\net6.0\Exemplo POO.csproj.AssemblyReference.cache
+C:\Users\Victor Verissimo\Documents\000.Cursos\DIO\Pottencial -net-\Exemplo POO\obj\Debug\net6.0\Exemplo POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victor Verissimo\Documents\000.Cursos\DIO\Pottencial -net-\Exemplo POO\obj\Debug\net6.0\Exemplo POO.AssemblyInfoInputs.cache
+C:\Users\Victor Verissimo\Documents\000.Cursos\DIO\Pottencial -net-\Exemplo POO\obj\Debug\net6.0\Exemplo POO.AssemblyInfo.cs
+C:\Users\Victor Verissimo\Documents\000.Cursos\DIO\Pottencial -net-\Exemplo POO\obj\Debug\net6.0\Exemplo POO.csproj.CoreCompileInputs.cache
+C:\Users\Victor Verissimo\Documents\000.Cursos\DIO\Pottencial -net-\Exemplo POO\obj\Debug\net6.0\Exemplo POO.dll
+C:\Users\Victor Verissimo\Documents\000.Cursos\DIO\Pottencial -net-\Exemplo POO\obj\Debug\net6.0\refint\Exemplo POO.dll
+C:\Users\Victor Verissimo\Documents\000.Cursos\DIO\Pottencial -net-\Exemplo POO\obj\Debug\net6.0\Exemplo POO.pdb
+C:\Users\Victor Verissimo\Documents\000.Cursos\DIO\Pottencial -net-\Exemplo POO\obj\Debug\net6.0\Exemplo POO.genruntimeconfig.cache
+C:\Users\Victor Verissimo\Documents\000.Cursos\DIO\Pottencial -net-\Exemplo POO\obj\Debug\net6.0\ref\Exemplo POO.dll
