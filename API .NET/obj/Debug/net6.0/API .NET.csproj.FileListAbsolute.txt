@@ -1,0 +1,27 @@
+C:\Users\Victor Verissimo\Documents\000.Cursos\DIO\Pottencial -net-\API .NET\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Victor Verissimo\Documents\000.Cursos\DIO\Pottencial -net-\API .NET\bin\Debug\net6.0\appsettings.json
+C:\Users\Victor Verissimo\Documents\000.Cursos\DIO\Pottencial -net-\API .NET\bin\Debug\net6.0\API .NET.exe
+C:\Users\Victor Verissimo\Documents\000.Cursos\DIO\Pottencial -net-\API .NET\bin\Debug\net6.0\API .NET.deps.json
+C:\Users\Victor Verissimo\Documents\000.Cursos\DIO\Pottencial -net-\API .NET\bin\Debug\net6.0\API .NET.runtimeconfig.json
+C:\Users\Victor Verissimo\Documents\000.Cursos\DIO\Pottencial -net-\API .NET\bin\Debug\net6.0\API .NET.dll
+C:\Users\Victor Verissimo\Documents\000.Cursos\DIO\Pottencial -net-\API .NET\bin\Debug\net6.0\API .NET.pdb
+C:\Users\Victor Verissimo\Documents\000.Cursos\DIO\Pottencial -net-\API .NET\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Victor Verissimo\Documents\000.Cursos\DIO\Pottencial -net-\API .NET\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Victor Verissimo\Documents\000.Cursos\DIO\Pottencial -net-\API .NET\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Victor Verissimo\Documents\000.Cursos\DIO\Pottencial -net-\API .NET\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Victor Verissimo\Documents\000.Cursos\DIO\Pottencial -net-\API .NET\obj\Debug\net6.0\API .NET.csproj.AssemblyReference.cache
+C:\Users\Victor Verissimo\Documents\000.Cursos\DIO\Pottencial -net-\API .NET\obj\Debug\net6.0\API .NET.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victor Verissimo\Documents\000.Cursos\DIO\Pottencial -net-\API .NET\obj\Debug\net6.0\API .NET.AssemblyInfoInputs.cache
+C:\Users\Victor Verissimo\Documents\000.Cursos\DIO\Pottencial -net-\API .NET\obj\Debug\net6.0\API .NET.AssemblyInfo.cs
+C:\Users\Victor Verissimo\Documents\000.Cursos\DIO\Pottencial -net-\API .NET\obj\Debug\net6.0\API .NET.csproj.CoreCompileInputs.cache
+C:\Users\Victor Verissimo\Documents\000.Cursos\DIO\Pottencial -net-\API .NET\obj\Debug\net6.0\API .NET.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Victor Verissimo\Documents\000.Cursos\DIO\Pottencial -net-\API .NET\obj\Debug\net6.0\API .NET.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Victor Verissimo\Documents\000.Cursos\DIO\Pottencial -net-\API .NET\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Victor Verissimo\Documents\000.Cursos\DIO\Pottencial -net-\API .NET\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Victor Verissimo\Documents\000.Cursos\DIO\Pottencial -net-\API .NET\obj\Debug\net6.0\scopedcss\bundle\API .NET.styles.css
+C:\Users\Victor Verissimo\Documents\000.Cursos\DIO\Pottencial -net-\API .NET\obj\Debug\net6.0\API .NET.csproj.CopyComplete
+C:\Users\Victor Verissimo\Documents\000.Cursos\DIO\Pottencial -net-\API .NET\obj\Debug\net6.0\API .NET.dll
+C:\Users\Victor Verissimo\Documents\000.Cursos\DIO\Pottencial -net-\API .NET\obj\Debug\net6.0\refint\API .NET.dll
+C:\Users\Victor Verissimo\Documents\000.Cursos\DIO\Pottencial -net-\API .NET\obj\Debug\net6.0\API .NET.pdb
+C:\Users\Victor Verissimo\Documents\000.Cursos\DIO\Pottencial -net-\API .NET\obj\Debug\net6.0\API .NET.genruntimeconfig.cache
+C:\Users\Victor Verissimo\Documents\000.Cursos\DIO\Pottencial -net-\API .NET\obj\Debug\net6.0\ref\API .NET.dll
