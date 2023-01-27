@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 
 namespace API_.NET.Entities
 {
-    public class Contatos
+    public class Contato
     {
         public int Id { get; set; }
         public string? Nome { get; set; }

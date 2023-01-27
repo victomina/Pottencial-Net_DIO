@@ -14,6 +14,6 @@ namespace API_.NET.Context
 
         }
 
-        public DbSet<Contatos> Contatos{get; set;}
+        public DbSet<Contato> Contatos{get; set;}
     }
 }
