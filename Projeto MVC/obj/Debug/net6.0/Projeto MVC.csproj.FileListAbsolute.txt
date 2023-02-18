@@ -1,0 +1,26 @@
+C:\Users\Victor Verissimo\Documents\000.Cursos\DIO\Pottencial -net-\Projeto MVC\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Victor Verissimo\Documents\000.Cursos\DIO\Pottencial -net-\Projeto MVC\bin\Debug\net6.0\appsettings.json
+C:\Users\Victor Verissimo\Documents\000.Cursos\DIO\Pottencial -net-\Projeto MVC\bin\Debug\net6.0\Projeto MVC.staticwebassets.runtime.json
+C:\Users\Victor Verissimo\Documents\000.Cursos\DIO\Pottencial -net-\Projeto MVC\bin\Debug\net6.0\Projeto MVC.exe
+C:\Users\Victor Verissimo\Documents\000.Cursos\DIO\Pottencial -net-\Projeto MVC\bin\Debug\net6.0\Projeto MVC.deps.json
+C:\Users\Victor Verissimo\Documents\000.Cursos\DIO\Pottencial -net-\Projeto MVC\bin\Debug\net6.0\Projeto MVC.runtimeconfig.json
+C:\Users\Victor Verissimo\Documents\000.Cursos\DIO\Pottencial -net-\Projeto MVC\bin\Debug\net6.0\Projeto MVC.dll
+C:\Users\Victor Verissimo\Documents\000.Cursos\DIO\Pottencial -net-\Projeto MVC\bin\Debug\net6.0\Projeto MVC.pdb
+C:\Users\Victor Verissimo\Documents\000.Cursos\DIO\Pottencial -net-\Projeto MVC\obj\Debug\net6.0\Projeto MVC.csproj.AssemblyReference.cache
+C:\Users\Victor Verissimo\Documents\000.Cursos\DIO\Pottencial -net-\Projeto MVC\obj\Debug\net6.0\Projeto MVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victor Verissimo\Documents\000.Cursos\DIO\Pottencial -net-\Projeto MVC\obj\Debug\net6.0\Projeto MVC.AssemblyInfoInputs.cache
+C:\Users\Victor Verissimo\Documents\000.Cursos\DIO\Pottencial -net-\Projeto MVC\obj\Debug\net6.0\Projeto MVC.AssemblyInfo.cs
+C:\Users\Victor Verissimo\Documents\000.Cursos\DIO\Pottencial -net-\Projeto MVC\obj\Debug\net6.0\Projeto MVC.csproj.CoreCompileInputs.cache
+C:\Users\Victor Verissimo\Documents\000.Cursos\DIO\Pottencial -net-\Projeto MVC\obj\Debug\net6.0\Projeto MVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Victor Verissimo\Documents\000.Cursos\DIO\Pottencial -net-\Projeto MVC\obj\Debug\net6.0\Projeto MVC.RazorAssemblyInfo.cache
+C:\Users\Victor Verissimo\Documents\000.Cursos\DIO\Pottencial -net-\Projeto MVC\obj\Debug\net6.0\Projeto MVC.RazorAssemblyInfo.cs
+C:\Users\Victor Verissimo\Documents\000.Cursos\DIO\Pottencial -net-\Projeto MVC\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Victor Verissimo\Documents\000.Cursos\DIO\Pottencial -net-\Projeto MVC\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Victor Verissimo\Documents\000.Cursos\DIO\Pottencial -net-\Projeto MVC\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Victor Verissimo\Documents\000.Cursos\DIO\Pottencial -net-\Projeto MVC\obj\Debug\net6.0\scopedcss\bundle\Projeto MVC.styles.css
+C:\Users\Victor Verissimo\Documents\000.Cursos\DIO\Pottencial -net-\Projeto MVC\obj\Debug\net6.0\scopedcss\projectbundle\Projeto MVC.bundle.scp.css
+C:\Users\Victor Verissimo\Documents\000.Cursos\DIO\Pottencial -net-\Projeto MVC\obj\Debug\net6.0\Projeto MVC.dll
+C:\Users\Victor Verissimo\Documents\000.Cursos\DIO\Pottencial -net-\Projeto MVC\obj\Debug\net6.0\refint\Projeto MVC.dll
+C:\Users\Victor Verissimo\Documents\000.Cursos\DIO\Pottencial -net-\Projeto MVC\obj\Debug\net6.0\Projeto MVC.pdb
+C:\Users\Victor Verissimo\Documents\000.Cursos\DIO\Pottencial -net-\Projeto MVC\obj\Debug\net6.0\Projeto MVC.genruntimeconfig.cache
+C:\Users\Victor Verissimo\Documents\000.Cursos\DIO\Pottencial -net-\Projeto MVC\obj\Debug\net6.0\ref\Projeto MVC.dll
