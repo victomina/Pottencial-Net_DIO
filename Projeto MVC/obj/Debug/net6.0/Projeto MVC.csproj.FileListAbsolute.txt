@@ -24,3 +24,30 @@ C:\Users\Victor Verissimo\Documents\000.Cursos\DIO\Pottencial -net-\Projeto MVC\
 C:\Users\Victor Verissimo\Documents\000.Cursos\DIO\Pottencial -net-\Projeto MVC\obj\Debug\net6.0\Projeto MVC.pdb
 C:\Users\Victor Verissimo\Documents\000.Cursos\DIO\Pottencial -net-\Projeto MVC\obj\Debug\net6.0\Projeto MVC.genruntimeconfig.cache
 C:\Users\Victor Verissimo\Documents\000.Cursos\DIO\Pottencial -net-\Projeto MVC\obj\Debug\net6.0\ref\Projeto MVC.dll
+D:\Victomina_Files\001.Cursos_Em_Andamento\DIO\Pottencial-Net_DIO\Projeto MVC\bin\Debug\net6.0\appsettings.Development.json
+D:\Victomina_Files\001.Cursos_Em_Andamento\DIO\Pottencial-Net_DIO\Projeto MVC\bin\Debug\net6.0\appsettings.json
+D:\Victomina_Files\001.Cursos_Em_Andamento\DIO\Pottencial-Net_DIO\Projeto MVC\bin\Debug\net6.0\Projeto MVC.staticwebassets.runtime.json
+D:\Victomina_Files\001.Cursos_Em_Andamento\DIO\Pottencial-Net_DIO\Projeto MVC\bin\Debug\net6.0\Projeto MVC.exe
+D:\Victomina_Files\001.Cursos_Em_Andamento\DIO\Pottencial-Net_DIO\Projeto MVC\bin\Debug\net6.0\Projeto MVC.deps.json
+D:\Victomina_Files\001.Cursos_Em_Andamento\DIO\Pottencial-Net_DIO\Projeto MVC\bin\Debug\net6.0\Projeto MVC.runtimeconfig.json
+D:\Victomina_Files\001.Cursos_Em_Andamento\DIO\Pottencial-Net_DIO\Projeto MVC\bin\Debug\net6.0\Projeto MVC.dll
+D:\Victomina_Files\001.Cursos_Em_Andamento\DIO\Pottencial-Net_DIO\Projeto MVC\bin\Debug\net6.0\ref\Projeto MVC.dll
+D:\Victomina_Files\001.Cursos_Em_Andamento\DIO\Pottencial-Net_DIO\Projeto MVC\bin\Debug\net6.0\Projeto MVC.pdb
+D:\Victomina_Files\001.Cursos_Em_Andamento\DIO\Pottencial-Net_DIO\Projeto MVC\obj\Debug\net6.0\Projeto MVC.GlobalUsings.g.cs
+D:\Victomina_Files\001.Cursos_Em_Andamento\DIO\Pottencial-Net_DIO\Projeto MVC\obj\Debug\net6.0\Projeto MVC.csproj.AssemblyReference.cache
+D:\Victomina_Files\001.Cursos_Em_Andamento\DIO\Pottencial-Net_DIO\Projeto MVC\obj\Debug\net6.0\Projeto MVC.GeneratedMSBuildEditorConfig.editorconfig
+D:\Victomina_Files\001.Cursos_Em_Andamento\DIO\Pottencial-Net_DIO\Projeto MVC\obj\Debug\net6.0\Projeto MVC.AssemblyInfoInputs.cache
+D:\Victomina_Files\001.Cursos_Em_Andamento\DIO\Pottencial-Net_DIO\Projeto MVC\obj\Debug\net6.0\Projeto MVC.AssemblyInfo.cs
+D:\Victomina_Files\001.Cursos_Em_Andamento\DIO\Pottencial-Net_DIO\Projeto MVC\obj\Debug\net6.0\Projeto MVC.csproj.CoreCompileInputs.cache
+D:\Victomina_Files\001.Cursos_Em_Andamento\DIO\Pottencial-Net_DIO\Projeto MVC\obj\Debug\net6.0\Projeto MVC.MvcApplicationPartsAssemblyInfo.cache
+D:\Victomina_Files\001.Cursos_Em_Andamento\DIO\Pottencial-Net_DIO\Projeto MVC\obj\Debug\net6.0\Projeto MVC.RazorAssemblyInfo.cache
+D:\Victomina_Files\001.Cursos_Em_Andamento\DIO\Pottencial-Net_DIO\Projeto MVC\obj\Debug\net6.0\Projeto MVC.RazorAssemblyInfo.cs
+D:\Victomina_Files\001.Cursos_Em_Andamento\DIO\Pottencial-Net_DIO\Projeto MVC\obj\Debug\net6.0\staticwebassets.build.json
+D:\Victomina_Files\001.Cursos_Em_Andamento\DIO\Pottencial-Net_DIO\Projeto MVC\obj\Debug\net6.0\staticwebassets.development.json
+D:\Victomina_Files\001.Cursos_Em_Andamento\DIO\Pottencial-Net_DIO\Projeto MVC\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Victomina_Files\001.Cursos_Em_Andamento\DIO\Pottencial-Net_DIO\Projeto MVC\obj\Debug\net6.0\scopedcss\bundle\Projeto MVC.styles.css
+D:\Victomina_Files\001.Cursos_Em_Andamento\DIO\Pottencial-Net_DIO\Projeto MVC\obj\Debug\net6.0\scopedcss\projectbundle\Projeto MVC.bundle.scp.css
+D:\Victomina_Files\001.Cursos_Em_Andamento\DIO\Pottencial-Net_DIO\Projeto MVC\obj\Debug\net6.0\Projeto MVC.dll
+D:\Victomina_Files\001.Cursos_Em_Andamento\DIO\Pottencial-Net_DIO\Projeto MVC\obj\Debug\net6.0\ref\Projeto MVC.dll
+D:\Victomina_Files\001.Cursos_Em_Andamento\DIO\Pottencial-Net_DIO\Projeto MVC\obj\Debug\net6.0\Projeto MVC.pdb
+D:\Victomina_Files\001.Cursos_Em_Andamento\DIO\Pottencial-Net_DIO\Projeto MVC\obj\Debug\net6.0\Projeto MVC.genruntimeconfig.cache
