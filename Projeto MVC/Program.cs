@@ -4,7 +4,7 @@ using ProjectMVC.Context;
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
-builder.Services.AddDbContext(options => options.UseSqlServer);
+builder.Services.AddDbContext(options => options.UseSqlServer(builder.configuration.GetConnectionString("ConexaoPadrao")));
 builder.Services.AddControllersWithViews();
 
 var app = builder.Build();
