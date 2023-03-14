@@ -20,5 +20,10 @@ namespace Projeto_MVC.Controllers
             var contatos = _context.Contatos.ToList();
             return View(contatos);
         }
+
+        public IActionResult Criar()
+        {
+            return View();
+        }
     }
 }
